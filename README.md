@@ -2,4 +2,4 @@
 Currently in the works, but as a general idea a library to help clarify the daily Andover schedule. For now should specify the baiscs of daily class periods and homework assingments.
 
 # How to install:
-Install using `<npm i andover_schedule>`.
+Install using `npm i andover_schedule`.
